@@ -1,8 +1,8 @@
 {
-  "name": "node-kobold",
+  "name": "node-kobold-oauth",
   "version": "0.2.0",
   "description": "Vorwerk Kobold API for VR200 and VR300",
-  "author": "nicoh88",
+  "author": "carlambroselli",
   "license": "MIT",
   "main": "index.js",
   "keywords": [
@@ -13,12 +13,12 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nicoh88/node-kobold.git"
+    "url": "git+https://github.com/carlambroselli/node-kobold.git"
   },
   "bugs": {
-    "url": "https://github.com/nicoh88/node-kobold/issues"
+    "url": "https://github.com/carlambroselli/node-kobold/issues"
   },
-  "homepage": "https://github.com/nicoh88/node-kobold#readme",
+  "homepage": "https://github.com/carlambroselli/node-kobold#readme",
   "dependencies": {
     "request": "^2.73.0"
   }
